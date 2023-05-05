@@ -1,0 +1,25 @@
+{
+  "name": "dwmc1-2023a",
+  "version": "1.0.0",
+  "description": "Proyecto de aprendizaje de la materia de pila completa 1",
+  "type": "module", 
+  "engines": {
+    "node": "18.x",
+    "npm": "9.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "keywords": [
+    "node",
+    "expressjs",
+    "itgam"
+  ],
+  "author": "@juancarlos",
+  "license": "MIT"
+}
